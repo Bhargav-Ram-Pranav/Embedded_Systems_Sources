@@ -1,0 +1,24 @@
+Task #1
+-------
+1.  W.A.P to change process image using exec family calls? 
+2.  W.A.P to print two threads simultaneously by using mutex...?  
+3.  W.A.P to Implement Your own kill command? 
+4.  W.A.P to print small characters in one thread and capital characters 
+		in another thread for a given string (intput should be taken 
+		from user). 
+6.  W.A.P to create a directory & remove directory? 
+7.  W.A.P to take input from user without using scanf() & gets() 
+		(implement your own scanf() function) ? 
+8.  W.A.P to create a file without using creat system call. 
+9.  W.A.P to implement your own ' ls ' command? 
+10. W.A.P to change the signal behaviour? 
+11. W.A.P to swap the content of the two files 
+		(i.e file1.c contents should be copied to file2.c and vise versa)? 
+12. W.A.P to print even in one thread and odd in one thread 
+		 without using mutex. 
+13. W.A.P to send messages from parent process to child process. 
+14. W.A.P to communicate b/w two processes using shared memory. 
+15. W.A.P to synchronise two process communications. 
+16.	W.A.P to communicate b/w two processes using message queue. 
+17.	W.A.P to print even and odd numbers in different threads 
+	using condition variable.? 

@@ -1,0 +1,20 @@
+
+1. **The Embedded Systems Learning Academy (ELSA):** This comprehensive resource offers tutorials, code examples, and hands-on projects to help you understand embedded systems. [ELSA on GitHub](https://github.com/gtol)
+
+2. **EmbeddedArtistry:** A repository with a focus on writing firmware, understanding embedded systems concepts, and creating reliable and maintainable code. [EmbeddedArtistry on GitHub](https://lnkd.in/geymf27n)
+
+3. **STM32CubeIDE Projects:** If you're working with STM32 microcontrollers, this repository contains a collection of example projects and libraries. [STM32CubeIDE on GitHub](https://lnkd.in/gpx6VbGF)
+
+4. **ARM Education Kit:** ARM's official education kit repository provides resources for learning about ARM-based embedded systems. [ARM Education Kit on GitHub](https://lnkd.in/gH5nqvT6)
+
+5. **ESP-IDF:** If you're interested in Espressif's ESP32 and ESP8266 microcontrollers, this repository contains the official development framework. [ESP-IDF on GitHub](https://lnkd.in/gbCJhKMB)
+
+6. **TinyOS:** An open-source, event-driven operating system designed for low-power wireless devices. [TinyOS on GitHub](https://lnkd.in/gchmsYQt)
+
+7. **Raspberry Pi Projects:** Explore a wide range of projects and tutorials for Raspberry Pi, a popular embedded platform. [Raspberry Pi on GitHub](https://lnkd.in/gzgzn-Ct)
+
+8. **AVR Libc:** If you're working with Atmel's AVR microcontrollers, this library provides support for various AVR devices. [AVR Libc on GitHub](https://lnkd.in/ggRpye3M)
+
+9. **BeagleBoard Examples:** This repository contains a collection of example code and projects for BeagleBoard, a low-cost single-board computer. [BeagleBoard on GitHub](https://lnkd.in/g9pTkh3C)
+
+10. **PlatformIO:** While not a repository per se, PlatformIO is an open-source ecosystem for IoT development with a vibrant community and extensive documentation. It supports a wide range of microcontroller platforms and development boards. [PlatformIO on GitHub](https://lnkd.in/gJH2-Xxj)

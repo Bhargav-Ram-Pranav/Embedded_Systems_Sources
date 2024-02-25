@@ -1,0 +1,60 @@
+𝐔𝐬𝐞𝐟𝐮𝐥 𝐆𝐢𝐭𝐇𝐮𝐛 𝐑𝐞𝐩𝐨𝐬 𝐟𝐨𝐫 𝐄𝐦𝐛𝐞𝐝𝐝𝐞𝐝 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐬 𝐚𝐧𝐝 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐬:
+
+Embedded Systems Engineering RoadMap: https://lnkd.in/gj_fg7G7
+
+C Programming Challenges: https://lnkd.in/gCEEf-GM
+
+Flight Software and Embedded Systems Framework by NASA: https://lnkd.in/gVawJY5S
+
+A list of Embedded and Electronics Engineering resources: https://lnkd.in/gTjkhUgK
+
+Libc Implementation designed for use on Embedded Systems: https://lnkd.in/gSiUDsFu
+
+Open-source firmware library for various ARM Cortex-M microcontrollers: https://lnkd.in/ggAh9xzR
+
+Collection of resources to build projects with the STM32 microcontrollers: https://lnkd.in/gg7RaNgs
+
+FreeRtos: https://lnkd.in/g_5XR5s7
+
+Embedded graphics library to create beautiful UIs for any MCU, MPU and display type: https://lnkd.in/gdz-PYVF
+
+PlatformIO Core: https://lnkd.in/gf3SkDnZ
+
+MicroPython - Implementation of Python on microcontrollers and small embedded systems: https://lnkd.in/gPEjxyxp
+
+printf/sprintf implementation for Embedded systems: https://lnkd.in/ghncPkUn
+
+uGUI - Graphics Library for Embedded System: https://lnkd.in/g7zAnRum
+
+IOT For Beginners by Microsoft: https://lnkd.in/gQeiyphq
+
+Quantum Leap QP/C- Real Time Embedded Framework: https://lnkd.in/gkG6vU6g
+
+Trampoline RTOS - RTOS for Small Embedded Systems: https://lnkd.in/g2A3D4XA
+
+Embedded Resources for Developers: https://lnkd.in/gKpPTckW
+
+C/C++ JSON parser, emitter, JSON-RPC engine for embedded systems: https://lnkd.in/gs48gmMa
+
+Open SAE J1939 protocol for CAN-bus message: https://lnkd.in/gf_jEhFf
+
+GCC/gcov code coverage by NASA JPL - Data extraction from the actual embedded system, without requiring a file system, or an operating system, or standard C libraries: https://lnkd.in/gaYKtynp
+
+LittleFs- A fail-safe file system for microcontrollers: https://lnkd.in/gKPQspMi
+
+Multi purpose Serial Data visualization and processing program: https://lnkd.in/gbRK_RjS
+
+Rust-Embedded: https://lnkd.in/gQkddd4A
+
+Customizable Bootloader for STM32: https://lnkd.in/gvDW43MZ
+
+UART based Embedded shell: https://lnkd.in/gk7Fsdut
+
+AUTOSAR for Beginners: https://lnkd.in/gk-C94SM
+
+
+Do share in the comment section the repositories that have benefited you, and recommend any that you believe would aid others in their embedded system learning journey.
+
+~~~~~~
+Follow to receive updates regarding Embedded Systems, Space and Technology concepts.
+
